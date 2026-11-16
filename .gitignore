@@ -1,0 +1,17 @@
+# Publish only our own work. Cayote's download, updater, firmware, decompiled code
+# and analysis output stay local.
+/*
+!/.gitignore
+!/README.md
+!/CLAUDE.md
+!/LICENSE
+!/docs/
+!/icon/
+/icon/*
+!/icon/CayoteLink-icon-master.png
+!/icon/CayoteLink.icns
+!/CayoteLink/
+/CayoteLink/.build/
+/CayoteLink/dist/
+.DS_Store
+.swiftpm/
