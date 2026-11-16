@@ -15,3 +15,4 @@
 /CayoteLink/dist/
 .DS_Store
 .swiftpm/
+!/tools/
